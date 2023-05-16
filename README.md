@@ -11,7 +11,7 @@ Usage
 
 shell
 
-git clone https://github.com/your-username/game-of-life.git
+git clone https://github.com/RWThompson7/game-of-life.git
 
     Open a terminal or command prompt and navigate to the project directory.
 
