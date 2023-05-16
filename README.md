@@ -1,15 +1,16 @@
 # Conway's Game of Life
 
 This is a Python implementation of Conway's Game of Life. It is a cellular automaton devised by the mathematician John Horton Conway in 1970. The game simulates the evolution of a grid of cells based on a set of rules, creating fascinating patterns and behaviors.
+
 Prerequisites
 
     Python 3.x
 
 Usage
 
-    Clone the repository or download the Python script.
+Clone the repository or download the Python script.
 
-git clone https://github.com/RWThompson7/game-of-life.git
+    git clone https://github.com/RWThompson7/game-of-life.git
 
 Open a terminal or command prompt and navigate to the project directory.
 
