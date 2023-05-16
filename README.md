@@ -19,14 +19,14 @@ Run the script.
 
     python game_of_life.py
 
-    Follow the on-screen instructions:
+Follow the on-screen instructions:
 
-    Enter the number of rows and columns for the grid.
-    Choose a starting pattern: "circle", "square", "diamond", or "random".
-    If you select "random," enter a probability as a floating-point decimal between 0.1 and 0.9 for starting cells.
+Enter the number of rows and columns for the grid.
+Choose a starting pattern: "circle", "square", "diamond", or "random".
+If you select "random," enter a probability as a floating-point decimal between 0.1 and 0.9 for starting cells.
 
-    The game will start, and the grid will be displayed in the console. Each generation will be printed, showing the evolution of the cells over time.
-    The program will continue for 15 generations by default. If all cells have died before that, the program will end.
+The game will start, and the grid will be displayed in the console. Each generation will be printed, showing the evolution of the cells over time.
+The program will continue for 15 generations by default. If all cells have died before that, the program will end.
 
 Rules
 
