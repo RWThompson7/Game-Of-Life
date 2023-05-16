@@ -9,21 +9,15 @@ Usage
 
     Clone the repository or download the Python script.
 
-shell
-
 git clone https://github.com/RWThompson7/game-of-life.git
 
-    Open a terminal or command prompt and navigate to the project directory.
+Open a terminal or command prompt and navigate to the project directory.
 
-shell
+    cd game-of-life
 
-cd game-of-life
+Run the script.
 
-    Run the script.
-
-shell
-
-python game_of_life.py
+    python game_of_life.py
 
     Follow the on-screen instructions:
 
@@ -38,10 +32,10 @@ Rules
 
 The rules of Conway's Game of Life are as follows:
 
-    Any live cell with fewer than two live neighbors dies (underpopulation).
+    Any live cell with fewer than two live neighbors dies (Underpopulation).
     Any live cell with two or three live neighbors survives.
-    Any live cell with more than three live neighbors dies (overpopulation).
-    Any dead cell with exactly three live neighbors becomes alive (reproduction).
+    Any live cell with more than three live neighbors dies (Overpopulation).
+    Any dead cell with exactly three live neighbors becomes alive (Reproduction).
 
 Code Explanation
 
