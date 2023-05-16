@@ -2,11 +2,11 @@
 
 This is a Python implementation of Conway's Game of Life. It is a cellular automaton devised by the mathematician John Horton Conway in 1970. The game simulates the evolution of a grid of cells based on a set of rules, creating fascinating patterns and behaviors.
 
-Prerequisites
+## Prerequisites
 
     Python 3.x
 
-Usage
+## Usage
 
 Clone the repository or download the Python script.
 
@@ -29,7 +29,7 @@ If you select "random," enter a probability as a floating-point decimal between 
 The game will start, and the grid will be displayed in the console. Each generation will be printed, showing the evolution of the cells over time.
 The program will continue for 15 generations by default. If all cells have died before that, the program will end.
 
-Rules
+## Rules
 
 The rules of Conway's Game of Life are as follows:
 
@@ -38,7 +38,7 @@ The rules of Conway's Game of Life are as follows:
     Any live cell with more than three live neighbors dies (Overpopulation).
     Any dead cell with exactly three live neighbors becomes alive (Reproduction).
 
-Code Explanation
+## Code Explanation
 
 The provided Python code consists of several functions:
 
@@ -50,7 +50,7 @@ The provided Python code consists of several functions:
     main(): Handles user input, initializes the grid, and runs the game for a specified number of generations.
 
 Feel free to modify and enhance the code according to your needs.
-Examples
+## Examples
 
 Here are some example patterns you can choose:
 
@@ -60,6 +60,7 @@ Here are some example patterns you can choose:
     "random": Generates a random grid based on a given probability.
 
 If an invalid pattern choice is entered, the program defaults to a random grid.
-Contributions
+
+## Contributions
 
 Contributions to this project are welcome. If you find any bugs or want to add new features, please create an issue or submit a pull request on GitHub.
